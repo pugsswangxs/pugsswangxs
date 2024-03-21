@@ -4,4 +4,4 @@
 
 ![](https://github.com/pugsswangxs/pugsswangxs/blob/output/github-contribution-grid-snake.svg)
 
-
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pugsswangxs&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugsswangxs" /> </div>
