@@ -4,8 +4,7 @@
 
 <div align="center"><img src="./img/header_.png" /></div>
 
-<div align="center">欢迎你！当前是本页面第 <img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /> 次被访问</div>
-
+**欢迎你！当前是本页面第** <img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /> **次被访问**
 <!--
 ![](https://github.com/pugsswangxs/pugsswangxs/blob/output/github-contribution-grid-snake.svg)
 -->
@@ -14,3 +13,4 @@
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pugsswangxs&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugsswangxs" /> </div>
+
