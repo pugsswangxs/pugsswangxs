@@ -4,7 +4,7 @@
 
 <div align="center"><img src="./img/header_.png" /></div>
 
-<div align="center"><img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /></div>
+<div align="center">欢迎你！当前是本页面第 <img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /> 次被访问</div>
 
 <!--
 ![](https://github.com/pugsswangxs/pugsswangxs/blob/output/github-contribution-grid-snake.svg)
