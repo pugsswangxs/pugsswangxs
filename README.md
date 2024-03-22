@@ -4,7 +4,10 @@
 
 <div align="center"><img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /></div>
 
+<!--
 ![](https://github.com/pugsswangxs/pugsswangxs/blob/output/github-contribution-grid-snake.svg)
+-->
+
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 
