@@ -11,8 +11,9 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pugsswangxs&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pugsswangxs" /> </div>
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell&logoColor=FCC624)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=Markdown)
   
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium&logoColor=563D7C)
@@ -24,12 +25,16 @@
   ![Clickhouse](https://img.shields.io/badge/-Clickhouse-333333?style=flat&logo=Clickhouse)
   
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
+  ![Gerrit](https://img.shields.io/badge/-Gerrit-333333?style=flat&logo=Gerrit)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   
 - 💺 &#160;![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=Jenkins)
   ![Jmeter](https://img.shields.io/badge/-Jmeter-333333?style=flat&logo=Jmeter)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
+
+- 📼 &#160;![Tomcat](https://img.shields.io/badge/-Tomcat-333333?style=flat&logo=Tomcat)
+  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
 
 #### About me
 
