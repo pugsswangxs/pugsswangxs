@@ -42,9 +42,10 @@
 
 - 📈 Github 主要用于博客和笔记代码托管，[👁‍🗨 Blog 博客地址](http://47.102.156.92:443/#/) 🙏，加油！
 
-- ❤️ 虽然工作和开发甚至代码无关，但是我喜欢痴迷于此，翻译腔出现啦😄！
+- ❤️ 自己很庆幸能给学习编程，从事IT相关工作😁 ，希望后续能继续加油！
 
-- 💬 平时不怎么逛的 [导航页](http://47.102.156.92:3575/board) 也放出来吧！正事可以来 [📧&nbsp;email](wxs15852445352@163.com)联系我，over！
+- 💬 我自己的 [导航页](http://47.102.156.92:3575/board) 也放出来吧（国内域名设置比较麻烦，就一直没设置）！正事可以来 [📧&nbsp;email](wxs15852445352@163.com)联系我，over！
+
 | ------------- | ------------- |
 
 **Welcome, this is** <img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /> **the current page has been visited**
