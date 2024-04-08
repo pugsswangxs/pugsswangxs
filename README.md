@@ -38,7 +38,7 @@
 
 #### About me
 
-- 💼 欢迎大家访问 [😍&nbsp;我的主页]http://www.wangxscoding.top/main/)，会时不时分享些有趣🤔的内容
+- 💼 欢迎大家访问 [😍&nbsp;我的主页](http://www.wangxscoding.top/main/)，会时不时分享些有趣🤔的内容
 
 - 📈 Github 主要用于博客和笔记代码托管，[👁‍🗨 Blog 博客地址](http://www.wangxscoding.top/mysite/) 🙏，加油！
 
