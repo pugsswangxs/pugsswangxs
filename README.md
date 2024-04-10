@@ -47,4 +47,4 @@
 - 💬 我自己的 [导航页](http://www.wangxscoding.top/board) 也放出来吧！正事可以来 [📧&nbsp;email](wxs15852445352@163.com)联系我，over！
 
 ___
-## Welcome! This is the page that has been visited <img src="https://profile-counter.glitch.me/pugsswangxs/count.svg" /> times!
+## Welcome! This is the page that has been visited <img src="https://access-counter.vercel.app/api/counter?name=pugsswangxs&theme=001&length=7" /> times!
